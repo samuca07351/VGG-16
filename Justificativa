@@ -1,0 +1,17 @@
+Justificativa para Diferenciação de Leões e Morcegos
+
+Este projeto visa desenvolver um classificador de imagens capaz de distinguir entre leões e morcegos, utilizando a arquitetura VGG16. A diferenciação desses animais é importante para diversas aplicações de robótica e visão computacional.
+
+Aplicações:
+
+Monitoramento da Fauna: Robôs equipados com visão computacional podem ser usados em parques naturais para identificar leões e garantir a segurança de visitantes, além de monitorar morcegos em ecossistemas para a preservação de ambientes naturais.
+
+Prevenção de Acidentes: Em ambientes urbanos, como aeroportos, robôs podem identificar morcegos, que representam riscos à segurança de aeronaves, acionando sistemas de dispersão para evitar colisões e proteger a aviação, salvando vidas.
+
+Pesquisa e Conservação: Robôs com visão computacional podem auxiliar em estudos comportamentais, monitorando leões e morcegos para pesquisas sobre habitats, padrões de movimento e preservação de espécies ameaçadas, contribuindo para a biodiversidade.
+
+Desafio: A semelhança entre leões e morcegos em certos aspectos visuais torna o problema interessante para testar a eficácia de modelos de visão computacional em condições variadas de imagem, como iluminação, ângulos e distâncias.
+
+Justificativa Técnica: A arquitetura VGG16, pré-treinada no ImageNet, é ideal para capturar características visuais essenciais, mesmo com um número limitado de imagens, proporcionando alta precisão na diferenciação entre os dois animais.
+
+Conclusão: Este projeto contribuirá significativamente para a robótica autônoma, segurança, conservação ambiental, monitoramento de fauna e tecnologias de visão computacional aplicadas em ambientes naturais e urbanos, promovendo inovação.
